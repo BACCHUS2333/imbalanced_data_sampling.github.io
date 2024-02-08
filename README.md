@@ -85,5 +85,5 @@ To reproduce the analysis:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-> [NOTE!]
+> [!NOTE]
 > the data is provided by tutor
