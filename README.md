@@ -77,9 +77,8 @@ To reproduce the analysis:
 
 ## Contributors
 
-- [Your Name]
-- [Contributor 2]
-- [Contributor 3]
+- /* Richard */
+
 
 ## License
 
@@ -87,3 +86,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 > [!NOTE]
 > the data is provided by tutor
+![bird head](pexels-jos-van-ouwerkerk-1617366.jpg)
